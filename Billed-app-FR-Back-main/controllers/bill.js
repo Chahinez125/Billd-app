@@ -188,10 +188,29 @@ const remove = async (req, res) => {
   }
 };
 
-export default {
+module.exports = {
   list,
   get,
   create,
   update,
   remove,
 };
+
+
+
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+
